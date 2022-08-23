@@ -1,6 +1,6 @@
 <div id="top"/>
 
-![nix atelier](client/public/public/icons/nixatelier.png)
+![nix atelier](client/public/public/icons/nixtitle.png)
 <div>A frontend development of a modern retail e-commerce website</div>
 
 ## Tech Stack
